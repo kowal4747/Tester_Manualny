@@ -1,1 +1,2 @@
 # Tester_Manualny
+pierwsza_zmiana

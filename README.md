@@ -1,3 +1,4 @@
 # Tester_Manualny
 pierwsza_zmiana
 druga_zmiana.
+T15______cz2
